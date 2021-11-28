@@ -1,0 +1,15 @@
+{
+	"name": "dynamodbkickstarteranddocs",
+	"version": "1.0.0",
+	"description": "step-1:",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Akash Jadhav <akash.jadhav.cse@gmail.com>",
+	"license": "MIT",
+	"dependencies": {
+		"aws-sdk": "^2.1037.0",
+		"http": "^0.0.1-security"
+	}
+}
